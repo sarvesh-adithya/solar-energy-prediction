@@ -1,4 +1,4 @@
-# 🌞 Solar Energy Production Prediction
+# 🌞 Solar Energy Production Prediction using Machine Learning
 
 ## 📌 Problem Statement
 The objective of this project is to predict the annual solar energy production (kWh) using real-world environmental and project-related data.
@@ -15,7 +15,7 @@ The objective of this project is to predict the annual solar energy production (
 
 ## 📈 Results
 - R² Score ≈ 0.85+  
-- Improved prediction accuracy  
+- Achieved strong predictive performance with reduced error after tuning  
 
 ## 🛠️ Tools
 - Python  
@@ -26,3 +26,9 @@ The objective of this project is to predict the annual solar energy production (
 ## 🚀 Future Improvements
 - Streamlit dashboard  
 - Real-time data integration  
+
+## 💡 Key Takeaways
+- Built an end-to-end ML pipeline from preprocessing to prediction
+- Worked with real-world dataset and handled missing values
+- Applied regression techniques for business-level forecasting
+
